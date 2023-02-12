@@ -1,0 +1,108 @@
+order number: 1000
+total: 11.13
+/127.0.0.1:57674
+order number: 1001
+total: 22.26
+/127.0.0.1:57675
+order number: 1002
+total: 33.39
+/127.0.0.1:57677
+order number: 1000
+total: 5.30
+/127.0.0.1:52276
+order number: 1001
+total: 12.72
+/127.0.0.1:52276
+order number: 1002
+total: 0.00
+/127.0.0.1:52276
+order number: 1000
+total: $5.30
+/127.0.0.1:52281
+order number: 1000
+total: 20.14
+/127.0.0.1:52591
+order number: 1001
+total: 19.61
+/127.0.0.1:52591
+order number: 1000
+total: 5.83
+/127.0.0.1:54398
+order number: 1001
+total: 16.96
+/127.0.0.1:54399
+order number: 1002
+total: 21.73
+/127.0.0.1:54398
+order number: 1000
+total: 5.83
+/127.0.0.1:53585
+order number: 1001
+total: 22.26
+/127.0.0.1:53586
+order number: 1002
+total: 21.73
+/127.0.0.1:53585
+order number: 1003
+total: 53.00
+/127.0.0.1:53587
+order number: 1000
+total: 29.68
+/127.0.0.1:63493
+order number: 1001
+total: 5.83
+/127.0.0.1:63493
+order number: 1000
+total: 14.31
+/127.0.0.1:49855
+order number: 1001
+total: 11.13
+/127.0.0.1:49855
+order number: 1002
+total: 11.13
+/127.0.0.1:49863
+order number: 1003
+total: 17.49
+/127.0.0.1:49855
+order number: 1004
+total: 33.39
+/127.0.0.1:49855
+order number: 1005
+total: 14.84
+/127.0.0.1:49863
+order number: 1006
+total: 0.00
+/127.0.0.1:49890
+order number: 1000
+total: 16.43
+/127.0.0.1:49277
+order number: 1001
+total: 5.83
+/127.0.0.1:49280
+order number: 1000
+total: 11.13
+/127.0.0.1:54194
+order number: 1001
+total: 36.57
+/127.0.0.1:54195
+order number: 1002
+total: 21.20
+/127.0.0.1:54195
+order number: 1003
+total: 39.75
+/127.0.0.1:54194
+order number: 1000
+total: 11.13
+/127.0.0.1:54258
+order number: 1001
+total: 14.84
+/127.0.0.1:54259
+order number: 1002
+total: 0.00
+/127.0.0.1:54259
+order number: 1003
+total: 4.24
+/127.0.0.1:54259
+order number: 1004
+total: 5.83
+/127.0.0.1:54258
